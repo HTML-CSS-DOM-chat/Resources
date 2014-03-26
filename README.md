@@ -5,5 +5,7 @@ A list of useful resources for developers.
 
  - http://flatuicolors.com/
  - http://www.codelium.com/
- - http://flukeout.github.io/ ( Slider)
+ - http://flukeout.github.io/ (Slider)
  - http://transparenttextures.com (Textured backgrounds)
+ - http://subtlepatterns.com/ (Textures)
+ - http://devdocs.io/ (General documentation)
