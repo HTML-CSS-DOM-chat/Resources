@@ -15,3 +15,4 @@ A list of useful resources for developers.
  - http://software.hixie.ch/utilities/js/live-dom-viewer/ (Live DOM Viewer)
  - http://www.javascripter.net/faq/rgbtohex.htm (RGB to Hexadecimal converter)
  - http://www.javascripter.net/faq/hextorgb.htm (Hexadecimal to RGB converter)
+ - http://www.flaticon.com/ (Icons)
