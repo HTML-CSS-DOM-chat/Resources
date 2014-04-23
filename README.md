@@ -17,3 +17,4 @@ A list of useful resources for developers.
  - http://www.javascripter.net/faq/hextorgb.htm (Hexadecimal to RGB converter)
  - http://www.flaticon.com/ (Icons)
  - http://cssdeck.com/ (CSS resources, samples)
+ - http://colllor.com/ (Color palette generator)
