@@ -18,3 +18,4 @@ A list of useful resources for developers.
  - http://www.flaticon.com/ (Icons)
  - http://cssdeck.com/ (CSS resources, samples)
  - http://colllor.com/ (Color palette generator)
+ - http://daneden.github.io/animate.css (CSS animations library)
