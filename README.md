@@ -20,3 +20,4 @@ A list of useful resources for developers.
  - http://colllor.com/ (Color palette generator)
  - http://daneden.github.io/animate.css (CSS animations library)
  - http://www.freeformatter.com/mime-types-list.html (Mime types listing)
+ - http://dopelists.com/webdesign/ (Big list of web design resources)
