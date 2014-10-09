@@ -22,3 +22,4 @@ A list of useful resources for developers.
  - http://www.freeformatter.com/mime-types-list.html (Mime types listing)
  - http://dopelists.com/webdesign/ (Big list of web design resources)
  - http://tympanus.net/Development/HoverEffectIdeas/ (CSS hover effects examples)
+ - http://tympanus.net/Tutorials/ItemBlur/ (Blur effects demonstration using CSS3 and jQuery)
