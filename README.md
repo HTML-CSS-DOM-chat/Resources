@@ -24,3 +24,4 @@ A list of useful resources for developers.
  - http://dopelists.com/webdesign/ (Big list of web design resources)
  - http://tympanus.net/Development/HoverEffectIdeas/ (CSS hover effects examples)
  - http://tympanus.net/Tutorials/ItemBlur/ (Blur effects demonstration using CSS3 and jQuery)
+ - https://www.animatron.com/ (HTML5 Animations, no coding required)
